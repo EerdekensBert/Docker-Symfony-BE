@@ -1,0 +1,2 @@
+192.168.76.1 - - [14/Dec/2017:08:58:55 +0000] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0" "-"
+192.168.76.1 - - [14/Dec/2017:08:59:16 +0000] "GET /index.php HTTP/1.1" 404 169 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0" "-"

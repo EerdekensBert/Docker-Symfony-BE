@@ -1,0 +1,1 @@
+2017/12/14 08:59:16 [error] 7#7: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 192.168.76.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "192.168.76.140"
